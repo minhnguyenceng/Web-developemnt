@@ -1,4 +1,4 @@
-This is a mini project to create a pricing panel website using HTML with responsive CSS and flexbox.\
+This is a mini project to create a pricing panel website using HTML with responsive CSS and flexbox.
 
 VS Code for editing
 
